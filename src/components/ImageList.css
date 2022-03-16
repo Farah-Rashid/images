@@ -1,0 +1,11 @@
+.Image-List{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+}
+.Image-List img {
+    width: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
